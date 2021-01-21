@@ -3,9 +3,9 @@
 	Mirai Bot
 </h1>
 <p align="center">
-	<img alt="size" src="https://img.shields.io/github/repo-size/roxtigger2003/mirai.svg?style=flat-square&label=size">
-	<img alt="code-version" src="https://img.shields.io/badge/dynamic/json?color=red&label=code%20version&prefix=v&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Froxtigger2003%2Fmirai%2Fmaster%2Fpackage.json&style=flat-square">
-	<a href="https://github.com/roxtigger2003/mirai/commits"><img alt="commits" src="https://img.shields.io/github/commit-activity/m/roxtigger2003/mirai.svg?label=commit&style=flat-square"></a>
+	<img alt="size" src="https://img.shields.io/github/repo-size/tuanducdesign/mirai.svg?style=flat-square&label=size">
+	<img alt="code-version" src="https://img.shields.io/badge/dynamic/json?color=red&label=code%20version&prefix=v&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2tuanducdesign%2Fmirai%2Fmaster%2Fpackage.json&style=flat-square">
+	<a href="https://github.com/roxtigger2003/mirai/commits"><img alt="commits" src="https://img.shields.io/github/commit-activity/m/tuanducdesign/mirai.svg?label=commit&style=flat-square"></a>
 </p>
 
 <p align="center">
@@ -103,7 +103,7 @@ Project Mirai sẽ biến tài khoản Facebook cá nhân của bạn thành m�
 ## Cài đặt (Linux/macOS/WSL/Windows đã cài windows-build-tools):
 + Step 1: Clone hoặc download project, nếu máy bạn có git hãy sử dụng lệnh:
 ```bash
-git clone https://github.com/roxtigger2003/mirai
+git clone https://github.com/tuanducdesign/mirai
 ```
 + Step 2: Trỏ và bắt đầu cài đặt các gói module cần thiết cho bot cũng như file env:
 ```bash
@@ -132,8 +132,8 @@ npm start
 
 ## Deployment
 Click this button:
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/roxtigger2003/mirai)
-[![Run on Repl.it](https://repl.it/badge/github/roxtigger2003/mirai)](https://repl.it/github/roxtigger2003/mirai)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/tuanducdesign/mirai)
+[![Run on Repl.it](https://repl.it/badge/github/roxtigger2003/mirai)](https://repl.it/github/tuanducdesign/mirai)
 
 # Author
 - **CatalizCS** (*Author and coder*) - [GitHub](https://github.com/roxtigger2003) - [Facebook](https://fb.me/Cataliz2k)
